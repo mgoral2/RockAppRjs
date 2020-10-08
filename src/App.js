@@ -85,7 +85,7 @@ class App extends Component {
   return (
     <div>
       <div className = "top">
-      <h1>Hit the button to generate a random top 25 all-time cd according to the Rolling  Stone</h1>
+      <h1>Hit the button to generate a random top 25 all-time cd according to the Rolling  Stone Magazine!</h1>
       </div>
     <div className =  "Outer">
     <div>
